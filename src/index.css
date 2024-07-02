@@ -1,0 +1,12 @@
+.fondoPágina{
+  background-image: url("fondoFragancias.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.imagenPrincipalBanner{
+  background-image: url("images/r.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
